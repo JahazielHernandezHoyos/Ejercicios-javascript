@@ -6,7 +6,7 @@ setTimeout(function(){
        inactividad = true 
        clearTimeout()
     } else {
-    alert("inactividad");
+    alert("hola soy truco vicio");
     }
 }, time);  
 
